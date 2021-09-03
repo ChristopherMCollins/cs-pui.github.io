@@ -28,6 +28,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 
 ### Permanent (Tenure-Track) Positions
 - [Beloit College](#beloit) - September 1
+- [Ontario Tech University](#ontariotech) - September 1
 - [Lawrence University](#lawrence) - October 1
 - [Canisius College](#canisius) - October 15
 - [University of Richmond](#richmond) - October 15
@@ -123,6 +124,14 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] Pomona College seeks applications for an Assistant Professor of Computer Science, to begin on July 1, 2022. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date. Pomona College is a highly selective liberal arts college with an enrollment of approximately 1600 students, all undergraduates. We seek to attract, develop, and retain the highest quality faculty and are committed to building a culturally diverse workplace. We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service._
 - Review of applications will begin on **November 15, 2021**
 - [Link to application](https://academicjobsonline.org/ajo/Pomona/Computer%20Science/19340?rss)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="ontariotech">[P] Ontario Tech University (Ontario, Canada)</a>
+_[Excerpt] The Faculty of Science at Ontario Tech University (University of Ontario Institute of Technology), invites applications, from qualified individuals, for a tenure-track assistant professor position in Computer Science. Applicants must hold a Ph.D. degree in Computer Science or related field or have completed all of the requirements of their PhD by the date of appointment. The preferred areas of expertise to strengthen and complement our existing research programs are:  programming languages and compilers; software development and analysis; systems (e.g., cloud computing, distributed, parallel, embedded and operating systems).  We will, however, consider applicants in all areas of Computer Science who have demonstrated exceptional research and teaching potential. Ontario Tech advances the discovery and application of knowledge through a technology-enriched learning environment and innovative programs in response to the needs of students and the evolving 21st century workplace.  Ontario Tech promotes social engagement, fosters critical thinking, and integrates outcomes-based learning experiences inside and outside the classroom.  We invite you to consider joining Ontario Tech’s globally-trained faculty as we further our reputation for providing a leading-edge learning environment and delivering innovative research._
+
+- Review of applications will begin on **September 1, 2021** and continue until the position is filled. We welcome applications submitted after this date.
+- [Link to application](https://universityofontarioit-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobinfo&id=23&jobid=2318&company_id=30136&version=1&source=ONLINE&JobOwner=992852&level=levelid2&levelid2=36332&startflag=3)
 
 _[back to deadlines](#deadlines)_
 
